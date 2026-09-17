@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Chemistry_Tool/Chemistry_Tool.vcxproj" Id="e7fd2287-ec87-4700-9af6-75973555ddeb" />
+</Solution>
