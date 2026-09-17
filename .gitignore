@@ -1,0 +1,18 @@
+# Visual Studio Local Settings
+.vs/
+
+# Build Outputs & Executables
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.obj
+*.ilk
+
+# User-specific Visual Studio Files
+*.vcxproj.user
+
+# OS Generated Files
+Thumbs.db
+.DS_Store
